@@ -3,7 +3,7 @@
 Method and logic that I used in program
 
 1. For loop
-2. if else condition
+2. If else condition
 3. Boolean condition
 4. Bubble Sort
 5. Binary search method
