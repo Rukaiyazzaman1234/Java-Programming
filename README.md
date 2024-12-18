@@ -1,4 +1,4 @@
---About Java-Programming:
+--About Java-Programming project:
 
 Method and logic that I used in program
 
@@ -14,7 +14,7 @@ Method and logic that I used in program
 --Technology used:
 
 
-intellij community edition
+IntellIJ Community version
 
 
 ---Code and Screenshot file link:
