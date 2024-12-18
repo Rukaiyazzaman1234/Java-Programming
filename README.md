@@ -1,6 +1,7 @@
 --About Java-Programming:
 
-Method and logic for the java prograaaming that is used in the program
+Method and logic that I used in program
+
 1. For loop
 2. if else condition
 3. Boolean condition
