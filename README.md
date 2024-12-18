@@ -17,7 +17,7 @@ Method and logic that I used in program
 intellij community edition
 
 
----Code and Screemshot file link:
+---Code and Screenshot file link:
 
 
 https://docs.google.com/document/d/1nPuYNIqIVeJ3IiImRM-LrIl4m0RRZa98iv03cJgwwo4/edit?usp=sharing
